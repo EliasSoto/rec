@@ -1,0 +1,28 @@
+
+/*ahora vamos a usar css para la vista de la imagen*/ 
+/* App.css */
+body {
+  margin: 0;
+  background-color: #efefef;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  background-color: #364552;
+  color: white;
+  padding: 3rem 2rem;
+}
+
+header h1 {
+  text-align: center;
+  
+}
+
+.texto {
+  text-align: center;
+}
+
+.radio-list {
+  text-align: center;
+}
